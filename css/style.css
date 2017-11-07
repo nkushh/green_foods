@@ -202,6 +202,11 @@ header .carousel-inner .carousel-item img{
 	.hero-btns{
 		margin-top: 20%;
 	}
+
+	header .carousel-indicators li{
+		display: none;
+	}
+
 	header .carousel-inner .carousel-item img{
 		margin: auto;
 		height: 100vh;
